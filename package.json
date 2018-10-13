@@ -2,6 +2,17 @@
   "name": "electron-create-react-app",
   "author": "Hunter Rancourt",
   "description": "Electron Create React app",
+  "keywords": [
+	  "React",
+	  "Facebook",
+	  "Create React App",
+	  "create-react-app",
+	  "Electron"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skwid138/electron-create-react-app.git"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {

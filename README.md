@@ -1,6 +1,6 @@
 # Electron Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Electron Changes
 
@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * src/electron-wait-react.js - This is also used to make sure the dev server is started before Electron
 * Package.json - Updated and added several scripts (npm start is still used for development), added main, home, and build as well
 * public/electron.js - This was /main.js copied from Electron's [electron-quick-start](https://github.com/electron/electron-quick-start) repository
-* *Optional* .env - Adding `BROWSER="none"` will prevent the browser from opening when the dev server starts 
+* *Optional* .env - Adding `BROWSER="none"` will prevent the browser from opening when the dev server starts
 
 ### Scripts
 * `npm start` will now open an electron window (as well as a browser unless using the above optional .env)
