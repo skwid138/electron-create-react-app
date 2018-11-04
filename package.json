@@ -3,11 +3,11 @@
   "author": "Hunter Rancourt",
   "description": "Electron Create React app",
   "keywords": [
-	  "React",
-	  "Facebook",
-	  "Create React App",
-	  "create-react-app",
-	  "Electron"
+    "React",
+    "Facebook",
+    "Create React App",
+    "create-react-app",
+    "Electron"
   ],
   "repository": {
     "type": "git",
@@ -43,6 +43,7 @@
   ],
   "devDependencies": {
     "electron": "^3.0.4",
+    "electron-builder": "^20.31.2",
     "foreman": "^3.0.1"
   },
   "main": "public/electron.js",
